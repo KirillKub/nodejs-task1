@@ -5,7 +5,7 @@ node index.js -a encode -s 7 -i 'input.txt' -o 'output.txt'
 ```
 
 ```
-node index.js --action decode -shift 7 --input 'input.txt' --output 'output.txt'
+node index.js --action decode --shift 7 --input 'input.txt' --output 'output.txt'
 ```
 
 1.  **-s, --shift**: a number, values 0-26, required
