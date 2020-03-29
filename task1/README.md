@@ -1,7 +1,7 @@
 Usage example: 
 
 ```
-node index.js -a encode -s 7 -o 'input.txt' -i 'output.txt'
+node index.js -a encode -s 7 -i 'input.txt' -o 'output.txt'
 ```
 
 ```
